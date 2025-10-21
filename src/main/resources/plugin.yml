@@ -1,0 +1,4 @@
+name: PluginTemplate
+version: '1.0.0'
+main: de.julianweinelt.plugins.PluginTemplate
+api-version: '1.21'
